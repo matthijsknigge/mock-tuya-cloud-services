@@ -1,0 +1,19 @@
+{
+  "name": "mock-tuya-cloud-services",
+  "version": "1.0.0",
+  "description": "mock cloud service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthijsknigge/mock-tuya-cloud-services.git"
+  },
+  "author": "M. Knigge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthijsknigge/mock-tuya-cloud-services/issues"
+  },
+  "homepage": "https://github.com/matthijsknigge/mock-tuya-cloud-services#readme"
+}
